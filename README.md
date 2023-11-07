@@ -1,5 +1,2 @@
 # ZyBot
-
-[zhihu][zhihu]
-
-[zhihu]:www.zhihu.com
+这儿并不存放任何有关代码的内容.事实上,这个bot目前是闭源的.不过你还是可以在这里提出issue来反馈你遇到的问题或者提出建议!
