@@ -1,3 +1,3 @@
 # ZyBot
 
-[![zhihu-shield]][zhihu]
+[zhihu][zhihu](www.zhihu.com)
